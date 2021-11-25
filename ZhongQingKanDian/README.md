@@ -29,26 +29,26 @@ kandian.wkandian.com, kd.youth.cn, ios.baertt.com
 ```
 
 ### 4、食用方法：
-1.到[重写]-[引用],**启动YouthCookie禁用YouthGetBody**,先获取cookie
+1、到[重写]-[引用],**启动YouthCookie禁用YouthGetBody**,先获取cookie
 
-**签到cookie:**
+**签到cookie:**  
 进入app，进入任务中心或者签到一次
 
 阅读请求body&阅读时长:
 阅读一篇文章或者视频到获取金币奖励
 
-**惊喜红包:**
+**惊喜红包:**  
 在阅读文章拉下面有个惊喜红包，点击获取
 
-2.手动执行一次定时脚本-”中青看点极速版”,看签到是不是正常
+2、手动执行一次定时脚本-”中青看点极速版”,看签到是不是正常
 
-3.到[重写]-[引用],启动YouthGetBody禁用YouthCookie,获取文章body
+3、到[重写]-[引用],启动YouthGetBody禁用YouthCookie,获取文章body
 
 阅读请求body:阅读一篇文章或者视频到获取金币奖励,通知提示body1
 
-4.手动执行一次定时脚本-”中青阅读”,是不是运行正常
+4、手动执行一次定时脚本-”中青阅读”,是不是运行正常
 
-5.获取更多的body,一天一般上限7200金币,建议获取200个body
+5、获取更多的body,一天一般上限7200金币,建议获取200个body
 
 ## V2P教程及重写
 教程
