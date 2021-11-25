@@ -5,8 +5,8 @@
 
 **收益：** 1.2——1.8 
 #### [rewrite_local] 
-#电视家获取header
-##打开app 获取header  点击提现获取url
+#电视家获取header  
+**打开app 获取header  点击提现获取url**
 ```
 http://.+/api/v2/device/info url script-request-body https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/dsj.js 
 ```
