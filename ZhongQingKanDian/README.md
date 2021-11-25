@@ -89,5 +89,5 @@ https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/ZhongQingKanD
  https://raw.githubusercontent.com/liuqi6968/-/main/zq_fbjl.js 
  https://github.com/shaolin-kongfu/js_scripts/tree/main/zq
 ### 致谢
-[liuqi6968](https://github.com/liuqi6968)
+[liuqi6968](https://github.com/liuqi6968)  
 [shaolin-kongfu](https://github.com/shaolin-kongfu)
