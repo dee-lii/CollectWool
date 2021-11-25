@@ -1,5 +1,10 @@
 ### 软件名称：中青看点 
 
+## TODO
+教程
+https://t.me/ShaolinTemple1/34
+https://t.me/ShaolinTemple1/45
+
 #### 重写链接:  
 ```
 https://kandian.wkandian.com/V17/Ximalaya/setCompleteSec.json script-request-header https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/ZhongQingKanDian/zq_music.js  
