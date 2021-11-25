@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/Youth/Yout
 ```
 https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/Youth/Youth_GetBody.conf, tag=YouthGetBody, update-interval=86400, opt-parser=false, enabled=true
 ```
-### 2、域名
+### 2、域名:
 **[MITM]**
 ```
 kandian.wkandian.com, kd.youth.cn, ios.baertt.com
