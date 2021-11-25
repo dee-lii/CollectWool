@@ -15,9 +15,7 @@ https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/Youth/Yout
 ### 2、域名
 **[MITM]**
 ```
-kandian.wkandian.com
-kd.youth.cn
-ios.baertt.com
+kandian.wkandian.com, kd.youth.cn, ios.baertt.com
 ```
 ### 3、定时任务：  
 **[task_local]**  
