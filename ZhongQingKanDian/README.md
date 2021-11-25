@@ -44,7 +44,8 @@ kandian.wkandian.com, kd.youth.cn, ios.baertt.com
 
 3、到[重写]-[引用],启动YouthGetBody禁用YouthCookie,获取文章body
 
-阅读请求body:阅读一篇文章或者视频到获取金币奖励,通知提示body1
+**阅读请求body:**  
+阅读一篇文章或者视频到获取金币奖励,通知提示body1
 
 4、手动执行一次定时脚本-”中青阅读”,是不是运行正常
 
