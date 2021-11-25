@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/Youth/Yout
 https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/Youth/Youth_GetBody.conf, tag=YouthGetBody, update-interval=86400, opt-parser=false, enabled=true
 ```
 
-### 2、定时任务：
+### 2、定时任务：  
 **[task_local]**
 #签到&转盘任务
 ```
