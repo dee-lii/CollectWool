@@ -64,6 +64,7 @@ export TxStockAppUrl='AppUrl'
 export TxStockAppHeader='AppHeader'
 export TxStockWxHeader='WxHeader'
 ```
+PS： 多用户使用“#”隔开
 回到“定时任务”拉取脚本
 ```
 ql raw https://raw.githubusercontent.com/leafxcy/JavaScript/main/txstock.js
