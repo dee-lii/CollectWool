@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/Youth/Yout
 ```
 
 ### 2、定时任务：  
-**[task_local]**
+**[task_local]**  
 #签到&转盘任务
 ```
 */30 0-23 * * * https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/Youth/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true
