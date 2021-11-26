@@ -8,7 +8,7 @@
     {
       "name": "全球购骑士特权",
       "type": "cron",
-      "time": "0 * * * *",
+      "time": "0 8-23 * * *",
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/QuanQiuGouQiShi/qishika.js"
