@@ -1,0 +1,18 @@
+{
+  "name": "快手定时任务订阅",
+  "desc": "无",
+  "date": "2021-08-05 20:32:08",
+  "author": "CollectWoolTeam",
+  "resource": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/KuaiShou/ks-cron.json",
+  "list": [
+    {
+      "name": "快手极速版",
+      "type": "cron",
+      "time": "15 2 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/liuqi6968/-/main/ks_js.js"
+      }
+    }
+  ]
+}
