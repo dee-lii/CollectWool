@@ -25,3 +25,4 @@ ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/QiQiDe
 
 ## 来源
 https://github.com/LubooC/Script/blob/main/QQDGY/qqdgy.js
+https://gitee.com/xiecoll/radish-script/raw/master/qqdgy.js（现版本）
