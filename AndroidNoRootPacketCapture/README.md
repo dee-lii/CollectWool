@@ -6,13 +6,13 @@
 
 
 
-# 方法一 VMOS
+### 方法一 VMOS
 ## 文件下载
 **VMOS链接：**  
-https://share.weiyun.com/N029lt3j
+
 **密码：** 6hxw9x
 
-# 方法二 太极模式
+### 方法二 太极模式(调用app有问题，建议用VMOS)
 
 太极：https://taichi.cool/zh/ （一个可以免 Root 运行的类 Xposed 框架）
 
