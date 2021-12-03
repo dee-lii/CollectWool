@@ -6,10 +6,10 @@
   "resource": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JingCaiTianQi/jctq_cron.json",
   "list": [
 	{
-	"name": "晶彩天气看看赚",
-	"type": "cron",
-	"time": "30 9,20 * * *",
-	"job": {
+		"name": "晶彩天气看看赚",
+		"type": "cron",
+		"time": "30 9,20 * * *",
+		"job": {
 		"type": "runjs",
 		"target": "https://raw.githubusercontent.com/leafxcy/JavaScript/main/jctq/jctq_kkz.js"
 		}
