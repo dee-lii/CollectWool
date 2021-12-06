@@ -1,0 +1,12 @@
+{
+  "name": "多多花园重写订阅",
+  "author": "elecV2p",
+  "mitmhost": ["bp-api.coohua.com"],
+  "rewrite": [
+    {
+      "match": "https://bp-api.coohua.com/shua-ddhy/receive/",
+      "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/DuoDuoHuaYuan/ddhy.js",
+      "enable": true
+    }
+  ]
+}
