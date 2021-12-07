@@ -153,6 +153,16 @@
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/ZhongQingKanDian/zq_music.js"
       }
+    },
+    {
+      "name": "中青看点 风险查询+今日收益详情",
+      "type": "cron",
+      "time": "30 20 * * *",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/ZhongQingKanDian/zqkd_risk.js"
+      }
     }
 
   ]
