@@ -1,0 +1,12 @@
+{
+  "name": "阅多多重写订阅",
+  "author": "elecV2p",
+  "mitmhost": ["yuekandian.yichengw.cn"],
+  "rewrite": [
+    {
+      "match": "https://yuekandian.yichengw.cn/api/v1/member/profile",
+      "target": "https://raw.githubusercontent.com/leafxcy/JavaScript/main/ydd.js",
+      "enable": true
+    }
+  ]
+}
