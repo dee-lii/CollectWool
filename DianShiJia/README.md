@@ -53,3 +53,5 @@ hostname = api.gaoqingdanshi.com
 ]
 ```
 
+## 来源:
+https://github.com/ziye888/JavaScript/blob/main/Task/dsj.js
