@@ -1,5 +1,5 @@
 # 联通 沃邮箱
-别玩涨停会黑！！！
+别玩掌庭会黑！！！
 
 #### 注册
 先去微信搜索并关注公众号:联通沃邮箱
@@ -21,6 +21,9 @@ export soy_wyx_data = '手机号#密码#抓包连接'
 变量数据包含说明 手机号#密码#抓包连接
 如:13800138000#123456#https://nyan.mail.wo.cn/cn/sign/index/index?mobile=xxxxxx&userName=&openId=xxxxxx
 
+#### 拉取
+建议使用soy拉库
+ql repo https://gitee.com/soy-tool/app-script "app_|wx_|wy_" "" "axios|md5|axios"
 
 ## 来源
 https://gitee.com/soy-tool/app-script/blob/master/wx_wyx.js#
