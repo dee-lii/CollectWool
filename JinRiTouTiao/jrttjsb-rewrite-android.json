@@ -1,0 +1,12 @@
+{
+  "name": "今日头条极速版重写订阅",
+  "author": "elecV2p",
+  "mitmhost": ["i.snssdk.com"],
+  "rewrite": [
+    {
+      "match": "luckycat/lite/v1/task/page_data",
+      "target": "https://raw.githubusercontent.com/leafxcy/JavaScript/main/jrttjsb.js",
+      "enable": true
+    }
+  ]
+}
