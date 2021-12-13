@@ -1,7 +1,7 @@
 {
   "name": "今日头条极速版重写订阅",
   "author": "elecV2p",
-  "mitmhost": ["i.snssdk.com"],
+  "mitmhost": ["*.snssdk.com"],
   "rewrite": [
     {
       "match": "luckycat/lite/v1/task/page_data",
