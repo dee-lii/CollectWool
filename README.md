@@ -14,6 +14,7 @@
 | 琪琪的果园 | [qqdgy.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/QiQiDeGuoYuan) | 正常（ck失效快） | 🐉 |
 | 太太了 | [raw_scripts_ttl.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/TaiTaiLe) | 正常 | 🐉 |
 | 电视家 | [dsj.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/DianShiJia) | 正常 | 圈X 🐉 |
+|近日偷条| [jrttjsb.js](https://github.com/CollectWoolTeam/CollectWool/tree/main/JinRiTouTiao) | 正常 | 圈X v2p 🐉 |
 ## 免责声明: 
 
 * 本仓库发布的**CollectWool**项目中涉及的任何解锁和解密分析脚本，仅用于测试和学习研究，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
