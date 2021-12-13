@@ -1,0 +1,19 @@
+# 近日偷条
+## 青龙
+#### 抓包（SSL破解）
+url筛选
+```
+i.snssdk.com  #andorid
+api3-normal-lq.toutiaoapi.com  #IOS
+```
+请求中的 cookie放到jrttjsbHeader
+请求中的 cookie放到jrttjsbUA
+参数：
+```
+export jrttjsbHeader='cookie1@cookie2'
+export rttjsbUA='ua1@ua2'
+```
+## V2p
+重写
+```
+```
