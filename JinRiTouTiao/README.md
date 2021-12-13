@@ -16,4 +16,12 @@ export rttjsbUA='ua1@ua2'
 ## V2p
 重写
 ```
+#android
+https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JinRiTouTiao/jrttjsb-rewrite-android.json
+#ios
+https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JinRiTouTiao/jrttjsb-rewrite-ios.json
+```
+定时任务
+```
+https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JinRiTouTiao/jrttjsb_cron.json
 ```
