@@ -17,6 +17,11 @@ page_data
 export jrttjsbHeader='cookie1@cookie2'
 export rttjsbUA='ua1@ua2'
 ```
+#### 拉库
+```
+ql raw https://raw.githubusercontent.com/leafxcy/JavaScript/main/jrttjsb.js
+```
+
 ## V2p
 重写
 ```
