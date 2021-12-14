@@ -88,6 +88,7 @@ https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/ZhongQingKanD
  https://raw.githubusercontent.com/liuqi6968/-/main/zq_music.js (钟情AIpapa-去赚钱-收听音频)
  https://raw.githubusercontent.com/liuqi6968/-/main/zq_fbjl.js 
  https://github.com/shaolin-kongfu/js_scripts/tree/main/zq
+ https://github.com/leafxcy/JavaScript/tree/main/jckd
 ### 致谢
 [liuqi6968](https://github.com/liuqi6968)  
 [shaolin-kongfu](https://github.com/shaolin-kongfu)
