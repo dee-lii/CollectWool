@@ -163,6 +163,16 @@
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/ZhongQingKanDian/zqkd_risk.js"
       }
+    },
+    {
+      "name": "中青看点 中青看点分享阅读",
+      "type": "cron",
+      "time": "30 20 * * *",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/ZhongQingKanDian/zqkd_shareRead.js"
+      }
     }
 
   ]
