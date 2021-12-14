@@ -6,6 +6,10 @@ url筛选
 i.snssdk.com  #andorid
 api3-normal-lq.toutiaoapi.com  #IOS
 ```
+或者
+```
+page_data
+```
 请求中的 cookie放到jrttjsbHeader
 请求中的 cookie放到jrttjsbUA
 参数：
