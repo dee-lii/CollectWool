@@ -167,7 +167,7 @@
     {
       "name": "中青看点 中青看点分享阅读",
       "type": "cron",
-      "time": "30 20 * * *",
+      "time": "45 20 * * *",
       "running": true,
       "job": {
         "type": "runjs",
