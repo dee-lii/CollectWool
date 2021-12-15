@@ -35,7 +35,7 @@ export bjzyaot='AOTXXXX@AOTXXXX'
 ```
 ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/QiQiDeGuoYuan/qqdgy.js
 ```
-#财神农庄  
+财神农庄  
 ```
 ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/QiQiDeGuoYuan/csnz.js
 ```
@@ -43,7 +43,15 @@ ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/QiQiDe
 ```
 ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/QiQiDeGuoYuan/bjzy.js
 ```
-
+### 定时 CRON
+财神农庄  
+```
+0,10,20,30,40,50 * * * *
+```
+爆金庄园
+```
+5,15,25,35,45,55 * * * *
+```
 ### 注意
 **获取运行后不要再手动进入游戏**，因为授权Cookie会失效，每次登录都需要重新抓包。
 
