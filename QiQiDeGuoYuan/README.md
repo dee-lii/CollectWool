@@ -10,7 +10,7 @@ APP2(爆金庄园)：http://chenggan.weiju123.com/download/7c99fe9a5048908c?invi
 ## 抓包
 登录抓包后找链接**url**请求头：https://www.weiju123.com/  
 1、获取**Cookie**内容 格式：PHPSESSID=XXXX  
-2、获取**Body/JSON**内容： {"buildid":1,"hv":"1.02","aot":"AOTXXXX"} 只要aot的值
+2、获取**Body/JSON**内容： {"buildid":1,"hv":"1.02","aot":"aotValue"} 只要aot的值
 ### 青龙使用 
 
 ### 变量
@@ -19,17 +19,17 @@ APP2(爆金庄园)：http://chenggan.weiju123.com/download/7c99fe9a5048908c?invi
 琪琪的果园
 ```
 export qqck='PHPSESSID=XXXX@PHPSESSID=XXXX'
-export qqaot='AOTXXXX@AOTXXXX'
+export qqaot='aotValue@aotValue'
 ```
 #财神农庄 
 ```
 export csnzhd='PHPSESSID=XXXX@PHPSESSID=XXXX'
-export csnzaot='AOTXXXX@AOTXXXX'
+export csnzaot='aotValue@aotValue'
 ```
 爆金庄园
 ```
 export bjzyhd='PHPSESSID=XXXX@PHPSESSID=XXXX'
-export bjzyaot='AOTXXXX@AOTXXXX'
+export bjzyaot='aotValue@aotValue'
 ```
 
 ### 拉取
