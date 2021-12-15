@@ -9,7 +9,7 @@ APP2(爆金庄园)：http://chenggan.weiju123.com/download/7c99fe9a5048908c?invi
 
 ## 抓包
 登录抓包后找链接**url**请求头：https://www.weiju123.com/  
-1、获取**Cookie**内容 格式：PHPSESSID=XXXX  
+1、获取**Cookie**内容（总览/请求的） 格式：PHPSESSID=XXXX  
 2、获取**Body/JSON**内容（小黄鸟在请求底部的Text/预览）： {"buildid":1,"hv":"1.02","aot":"aotValue"} 只要aot的值
 ### 青龙使用 
 
