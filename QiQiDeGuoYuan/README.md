@@ -1,7 +1,9 @@
 # 琪琪的果园
 ## 入口
 威信小程序：琪琪的果园
+
 APP1(财神农庄)：http://fingertap.weiju123.com/download/abc454b8102b25ea?invite=a0f094&v=0
+
 APP2(爆金庄园)：http://chenggan.weiju123.com/download/7c99fe9a5048908c?invite=22c4b3&v=0
 
 ## 抓包
@@ -48,3 +50,5 @@ ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/QiQiDe
 ## 来源
 https://github.com/LubooC/Script/blob/main/QQDGY/qqdgy.js
 https://gitee.com/xiecoll/radish-script/raw/master/qqdgy.js（现版本）
+
+财神农庄\爆金庄园:肥皂有毛毛
