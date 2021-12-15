@@ -48,11 +48,11 @@ ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/QiQiDe
 ### 定时 CRON
 财神农庄  
 ```
-0,10,20,30,40,50 * * * *
+25 7-13/1 * * *
 ```
 爆金庄园
 ```
-5,15,25,35,45,55 * * * *
+45 7-13/1 * * *
 ```
 ### 注意
 **获取运行后不要再手动进入游戏**，因为授权Cookie会失效，每次登录都需要重新抓包。
