@@ -1,6 +1,8 @@
 # 琪琪的果园
 ## 入口
 威信小程序：琪琪的果园
+APP1(财神农庄)：http://fingertap.weiju123.com/download/abc454b8102b25ea?invite=a0f094&v=0
+APP2(爆金庄园)：http://chenggan.weiju123.com/download/7c99fe9a5048908c?invite=22c4b3&v=0
 
 ## 抓包
 登录抓包后找链接**url**请求头：https://www.weiju123.com/  
@@ -10,14 +12,34 @@
 
 ### 变量
 多账户用@分开
+琪琪的果园
 ```
 export qqck='PHPSESSID=XXXX@PHPSESSID=XXXX'
 export qqaot='AOTXXXX@AOTXXXX'
 ```
+#财神农庄  （）
+```
+export csnzhd='PHPSESSID=XXXX@PHPSESSID=XXXX'
+export csnzaot='AOTXXXX@AOTXXXX'
+```
+爆金庄园
+```
+export bjzyhd='PHPSESSID=XXXX@PHPSESSID=XXXX'
+export bjzyaot='AOTXXXX@AOTXXXX'
+```
 
 ### 拉取
+琪琪的果园
 ```
 ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/QiQiDeGuoYuan/qqdgy.js
+```
+#财神农庄  
+```
+ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/QiQiDeGuoYuan/csnz.js
+```
+爆金庄园
+```
+ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/QiQiDeGuoYuan/bjzy.js
 ```
 
 ### 注意
