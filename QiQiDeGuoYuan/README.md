@@ -15,12 +15,13 @@ APP2(爆金庄园)：http://chenggan.weiju123.com/download/7c99fe9a5048908c?invi
 
 ### 变量
 多账户用@分开
+
 琪琪的果园
 ```
 export qqck='PHPSESSID=XXXX@PHPSESSID=XXXX'
 export qqaot='AOTXXXX@AOTXXXX'
 ```
-#财神农庄  （）
+#财神农庄 
 ```
 export csnzhd='PHPSESSID=XXXX@PHPSESSID=XXXX'
 export csnzaot='AOTXXXX@AOTXXXX'
