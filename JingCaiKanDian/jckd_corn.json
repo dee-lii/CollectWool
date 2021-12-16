@@ -114,7 +114,7 @@
         "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JingCaiKanDian/jc_5_60.js"
       }
     },
-{
+    {
       "name": "晶彩看点分享阅读",
       "type": "cron",
       "time": "0 22 * * *",
@@ -122,6 +122,16 @@
       "job": {
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JingCaiKanDian/jckd_shareRead.js"
+      }
+    },
+    {
+      "name": "晶彩看点提现情况+风险详情",
+      "type": "cron",
+      "time": "30 21 * * *",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JingCaiKanDian/jckd_risk.js"
       }
     }
   ]
