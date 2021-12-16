@@ -17,6 +17,8 @@ jzttCookie.js脚本名称不能改变，拉取的需要自行更改名称；也�
 export jzreadurl='https://api.st615.com/v1/user/info?token=抓包的token'  
 自行抓包替换 关键字为**token** 抓包的**token**
 提现变量为cashtx
+面额为0.3 2 5 30 50 100
+新账号提现改为export cashtx='0.3'
 
 #### 脚本拉取：
 ```
@@ -25,6 +27,7 @@ ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JiuZha
 #### 变量参数：
 ```
 export jzreadurl='https://api.st615.com/v1/user/info?token=XXX@https://api.st615.com/v1/user/info?token=XXX'
+#面额为0.3 2 5 30 50 100
 export cashtx=''
 ```
 
