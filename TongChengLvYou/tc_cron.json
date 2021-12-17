@@ -1,0 +1,18 @@
+{
+  "name": "同程旅游小程序定时任务订阅",
+  "desc": "无",
+  "date": "2021-08-05 20:32:08",
+  "resource": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/TongChengLvYou/tc_cron.json",
+  "list": [
+    {
+      "name": "同程旅游小程序",
+      "type": "cron",
+      "time": "15 8-18/1 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/TongChengLvYou/tcdb.js"
+      }
+    }
+
+  ]
+}
