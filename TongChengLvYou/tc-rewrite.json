@@ -1,0 +1,12 @@
+{
+  "name": "同程旅游重写订阅",
+  "author": "elecV2p",
+  "mitmhost": ["x.elong.com"],
+  "rewrite": [
+    {
+      "match": "https://x.elong.com/feifang/activity/baseapi/treasure/task?",
+      "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/TongChengLvYou/tcdb.js",
+      "enable": true
+    }
+  ]
+}
