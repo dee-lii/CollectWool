@@ -62,6 +62,11 @@
       "match": "https://kandian.wkandian.com/V17/Ximalaya/setCompleteSec.json",
       "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/ZhongQingKanDian/zq_music.js",
       "enable": true
+    },
+    {
+      "match": "https://kandian.wkandian.com/v17/Ad/getReward.json",
+      "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/ZhongQingKanDian/zq_5_60.js",
+      "enable": true
     }
   ]
 }
