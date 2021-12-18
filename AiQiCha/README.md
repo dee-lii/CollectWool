@@ -1,11 +1,11 @@
 ## 爱妻查
 #### 青龙拉取命令(源库)：
 ```
-ql raw ql raw https://github.com/WindFgg/QuantumultX_Conf/blob/main/Scripts/aiqicha.js
+ql raw https://raw.githubusercontent.com/WindFgg/Scripts/main/Scripts/ql_aiqicha.js
 ```
 #### 本库：
 ```
-ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/AiQiCha/aiqicha.js
+ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/AiQiCha/ql_aiqicha.js
 ```
 
 ## 抓包
