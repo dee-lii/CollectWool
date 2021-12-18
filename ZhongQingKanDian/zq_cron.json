@@ -173,6 +173,16 @@
         "type": "runjs",
         "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/ZhongQingKanDian/zqkd_shareRead.js"
       }
+    },
+    {
+      "name": "中青看点 5_60",
+      "type": "cron",
+      "time": "45 20 * * *",
+      "running": true,
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/ZhongQingKanDian/zq_5_60.js"
+      }
     }
 
   ]
