@@ -6,7 +6,7 @@
 
 #签到cookie获取
 ```
-https://raw.githubusercontent.com/CenBoMin/QuantumultX/master/Scripts/Youth/Youth_cookie.conf, tag=YouthCookie, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/ZhongQingKanDian/Youth_cookie.conf, tag=YouthCookie, update-interval=86400, opt-parser=false, enabled=true
 ```
 #阅读body获取
 ```
