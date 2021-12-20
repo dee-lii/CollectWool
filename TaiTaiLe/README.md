@@ -3,6 +3,10 @@
 ### 抓包
 **token：** 打开微信小程序 太太乐餐饮服务 请求头里面token
 或者太太乐APP点我的 登录 logintoken= *** 这条也行
+
+小程序二维码
+![contents](https://github.com/RGNil/2020MCM_paper/blob/master/contents.png)
+
 ### 拉取脚本
 ```
 ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/TaiTaiLe/raw_scripts_ttl.js
