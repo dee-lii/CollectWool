@@ -5,7 +5,7 @@
 或者太太乐APP点我的 登录 logintoken= *** 这条也行
 
 小程序二维码
-![contents](https://github.com/RGNil/2020MCM_paper/blob/master/contents.png)
+![contents](https://github.com/CollectWoolTeam/CollectWool/blob/main/TaiTaiLe/ttl.jpg)
 
 ### 拉取脚本
 ```
