@@ -33,3 +33,6 @@ ql raw https://raw.githubusercontent.com/liuqi6968/-/main/ks_js.js
 ```
 export kshd='cookie1后面的字符串@cookie2后面的字符串'
 ```
+
+## 来源
+https://github.com/liuqi6968/-/blob/main/ks_js.js
