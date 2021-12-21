@@ -1,0 +1,16 @@
+{
+  "name": "睡觉宝定时任务订阅",
+  "desc": "无",
+  "resource": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/ShuiJiaoBao/sjb-cron.json",
+  "list": [
+    {
+      "name": "睡觉宝",
+      "type": "cron",
+      "time": "0,30 6,12,13,18,21 * * * ",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/ShuiJiaoBao/sjb.js"
+      }
+    }
+  ]
+}
