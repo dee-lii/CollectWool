@@ -1,0 +1,12 @@
+{
+  "name": "睡觉宝重写订阅",
+  "author": "elecV2p",
+  "mitmhost": ["mapi.shuijiaobao.cn"],
+  "rewrite": [
+    {
+      "match": "https://mapi.shuijiaobao.cn",
+      "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/ShuiJiaoBao/sjb.js",
+      "enable": true
+    }
+  ]
+}
