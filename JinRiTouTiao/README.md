@@ -19,6 +19,8 @@ page_data
 ```
 export jrttjsbHeader='cookie1@cookie2'
 export rttjsbUA='ua1@ua2'
+export jrttjsbReadNum='15'
+export jrttjsbFarm='1'
 ```
 #### 拉库
 ```
