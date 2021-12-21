@@ -1,0 +1,16 @@
+{
+  "name": "看点宝/阅多多/悦看点定时任务订阅",
+  "desc": "无",
+  "resource": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/YueKanDian/ykd-cron.json",
+  "list": [
+    {
+      "name": "看点宝/阅多多/悦看点",
+      "type": "cron",
+      "time": "15 9-21 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/YueKanDian/ydd.js"
+      }
+    }
+  ]
+}
