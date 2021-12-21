@@ -11,11 +11,13 @@
 ```
 
 ## v2P
-重写
+重写订阅
 ```
+https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/ShuiJiaoBao/sjb-rewrite.json
 ```
-订阅
+任务订阅
 ```
+
 ```
 
 ## 来源
