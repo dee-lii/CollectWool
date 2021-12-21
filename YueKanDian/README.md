@@ -11,11 +11,15 @@ export yddCookie='账号1的Authorization#device#UA@账号2的Authorization#devi
 
 ```
 
-## V2P重写：
+## V2P
+重写：
 ```
-https://github.com/CollectWoolTeam/CollectWool/blob/main/YueKanDian/ykd-rewrite.json
+https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/YueKanDian/ykd-rewrite.json
 ```
-
+任务：
+```
+https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/YueKanDian/ykd-cron.json
+```
 
 ## QX
 打开APP即可获取CK，没有的话点一下我的页面或者赚钱页面
