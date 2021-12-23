@@ -7,6 +7,10 @@
 ```
 ql raw https://gitee.com/xiecoll/radish-script/raw/master/Chinaunicom.js
 ```
+本库
+```
+ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/ChinaUnicom/Chinaunicom.js
+```
 #### 变量
 ```
 export ltphone = '手机号1@手机号2'
