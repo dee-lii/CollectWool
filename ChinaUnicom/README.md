@@ -1,9 +1,10 @@
 # 中国联通
 中国联通手机营业厅
 功能：签到，签到任务，奖励：有话费红包吧
-
+只支持青龙
 ## 青龙
 #### 拉取
+源库
 ```
 ql raw https://gitee.com/xiecoll/radish-script/raw/master/Chinaunicom.js
 ```
