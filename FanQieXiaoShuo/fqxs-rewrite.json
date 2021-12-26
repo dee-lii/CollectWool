@@ -1,0 +1,12 @@
+{
+  "name": "番茄小说重写订阅",
+  "author": "elecV2p",
+  "mitmhost": ["*.snssdk.com"],
+  "rewrite": [
+    {
+      "match": "luckycat/novel/v1/task/sign_in/*",
+      "target": "https://raw.githubusercontent.com/bluesmallpig/scripts/main/fqxs.js",
+      "enable": true
+    }
+  ]
+}
