@@ -5,7 +5,7 @@
   "rewrite": [
     {
       "match": "luckycat/novel/v1/task/sign_in/*",
-      "target": "https://raw.githubusercontent.com/bluesmallpig/scripts/main/fqxs.js",
+      "target": "https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/fqxs.js",
       "enable": true
     }
   ]
