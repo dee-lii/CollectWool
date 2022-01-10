@@ -33,7 +33,8 @@ ql raw https://gitee.com/soy-tool/app-script/raw/master/app_yhxq.js
 PS：建议源库，更新更快
 #### 参数
 ```
-export soy_yhxq_Authorization = ''
+export soy_yhxq_Authorization = '' 
+#多账号@分割
 #选填变量
 export soy_yhxq_UA=''
 ```
