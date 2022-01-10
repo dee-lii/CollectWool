@@ -4,8 +4,16 @@
 项目注册地址:http://reg.yuanhuoxingqiu.com/
 
 ## 青龙
+#### 教程
+第一步： 打开注册链接 注册账号以及下载APP
+第二步： 打开APP登录
+第三步： 打开抓包软件
+第四步： 回到APP随便点击
+第五步： 回到抓包软件 搜索 ：api.yuanhuoxingqiu.com
+第六步： 在请求中找 Authorization 和 UA
+
 #### 抓包
-抓包请求头里面的Authorization,注意不要 Bearer 和空格
+抓包请求头api.yuanhuoxingqiu.com里面的Authorization,注意不要 Bearer 和空格
 
 #### 参数
 ```
