@@ -15,6 +15,16 @@
 #### 抓包
 抓包请求头api.yuanhuoxingqiu.com里面的Authorization,注意不要 Bearer 和空格
 
+#### 拉取脚本
+本库
+```
+ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/YuanHuoXingQiu/app_yhxq.js
+```
+源库
+```
+ql raw https://gitee.com/soy-tool/app-script/raw/master/app_yhxq.js
+```
+PS：建议源库，更新更快
 #### 参数
 ```
 export soy_yhxq_Authorization = ''
