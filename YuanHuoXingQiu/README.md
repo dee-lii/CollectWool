@@ -3,6 +3,7 @@
 
 ####  注册 
 项目注册地址:http://reg.yuanhuoxingqiu.com/
+https://yuanhuo.oss-cn-beijing.aliyuncs.com/apk/yuanhuoV1.22.0.apk
 
 ## 青龙
 #### 教程
