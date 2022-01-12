@@ -28,6 +28,7 @@ APP STORE： 九章头条
 1.九章头条黑号秽土转生：用接码平台 (http://h5.miyun.pro/zc.html?inviteCode=106160)
 2.接码注册九章，然后绑定黑号的微信即可
 ## 来源
-https://github.com/xl2101200/-/blob/main/jztt.js
+https://github.com/leafxcy/JavaScript/blob/main/jztt.js (最新可用 2022-01-11)
 
+https://github.com/xl2101200/-/blob/main/jztt.js
 微信公众号柠檬玩机交流
