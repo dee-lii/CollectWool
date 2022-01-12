@@ -22,18 +22,24 @@ export jzreadurl='https://api.st615.com/v1/user/info?token=抓包的token'
 
 #### 脚本拉取：
 ```
-ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JiuZhangTouTiao/jzread.js
+#ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JiuZhangTouTiao/jzread.js //不能用了
+ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/JiuZhangTouTiao/leafxcy-jztt.js
 ```
 #### 变量参数：
 ```
-export jzreadurl='https://api.st615.com/v1/user/info?token=XXX@https://api.st615.com/v1/user/info?token=XXX'
+#export jzreadurl='https://api.st615.com/v1/user/info?token=XXX@https://api.st615.com/v1/user/info?token=XXX'
 #面额为0.3 2 5 30 50 100
-export cashtx=''
+#export cashtx=''
+# 2022新参数 ：
+export jzttToken='token@token@token'
 ```
 
 ## 下载 
 APP STORE： 九章头条
 安卓各大商场自行下载，未测试
+## 黑号处理
+1.九章头条黑号秽土转生：用接码平台 (http://h5.miyun.pro/zc.html?inviteCode=106160)
+2.接码注册九章，然后绑定黑号的微信即可
 ## 来源
 https://github.com/xl2101200/-/blob/main/jztt.js
 
