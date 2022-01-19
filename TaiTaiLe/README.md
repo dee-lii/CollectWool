@@ -9,6 +9,7 @@
 
 ### 拉取脚本
 ```
+//ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/TaiTaiLe/ttlQuta.js//库存通知
 ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/TaiTaiLe/ttlToken.js
 ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/TaiTaiLe/raw_scripts_ttl.js
 ```
