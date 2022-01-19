@@ -1,6 +1,6 @@
 // 太太乐Token
 // [rule: Token ? ?] 
-
+//ttlAccount 格式 账号-密码@账号-密码
 const request = require('request') ? require('request') :'';
 const ttlAccount = process.env.ttlAccount ? process.env.ttlAccount  : '';
 var tokens = '';
