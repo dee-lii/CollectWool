@@ -9,6 +9,7 @@
 
 ### 拉取脚本
 ```
+ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/TaiTaiLe/ttlToken.js
 ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/TaiTaiLe/raw_scripts_ttl.js
 ```
 ### 时间设定
@@ -17,6 +18,10 @@ ql raw https://raw.githubusercontent.com/CollectWoolTeam/CollectWool/main/TaiTai
 ```
 ### 环境变量
 ```
+//账号密码 获取Token
+export ttlUserName=''
+export ttlPassword=''
+//输入Token跑raw_scripts_ttl
 export ttlhd=''
 ```
 **多账号@隔开:** export ttlhd='XXXXXX@XXXXX'  
