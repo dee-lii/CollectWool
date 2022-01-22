@@ -52,7 +52,7 @@ async function getToken(account,password){
                 if (!error && response.statusCode == 200) {
                 //console.log(body.data.token);
                     if(body.data.token){
-                        tokens = tokens + body.data.token+"&";
+                        tokens = tokens + body.data.token+"@";
                         //console.log(tokens);
                     }
                 } else {
